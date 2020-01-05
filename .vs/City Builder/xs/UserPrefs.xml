@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7CF6C13C-0FBB-0922-F259-F2127171F749}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WorldGen/TileGeneration.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WorldGen/TileGeneration.cs" Line="5" Column="22" />
+      <File FileName="../Downloads/TutorialPart1/Assets/Scripts/TileGeneration.cs" Line="96" Column="1" />
+      <File FileName="../Downloads/TutorialPart1/Assets/Scripts/NoiseMapGeneration.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="City Builder" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="WorldGen" expanded="True">
+                  <Node name="TileGeneration.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="08c7b06c-e952-4d69-a534-0bcdee7949cb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
